@@ -9,3 +9,4 @@ Tableau is a powerful data visualization tool that allows users to create intera
 Description: Brief overview of the first Tableau project. Explain what the project is about and the insights it provides.
 
 Project 1 Screenshot
+![IPL Analysis Dashboard](https://github.com/yashsharma1812/Tableau-Projects/assets/145771141/121d0b64-7571-4c6f-89d7-b013196c1d7b)
