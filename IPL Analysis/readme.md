@@ -19,7 +19,8 @@ The data used in this project is taken from Kaggle. All the files have been adde
 
 ## Screenshots
 ![IPL Analysis Dashboard](https://github.com/yashsharma1812/Tableau-Projects/assets/145771141/6a53b43a-a820-4317-b91d-92f0203ad124)
-![IPL Analysis Dashboard 2](https://github.com/yashsharma1812/Tableau-Projects/assets/145771141/0d74efc9-68b0-446f-8b5c-bd0729f69187)
+![IPL Analysis Dashboard 3](https://github.com/yashsharma1812/Tableau-Projects/assets/145771141/d5d5dad0-2557-49fa-83fa-e0fb2a3ec6d7)
+
 
 
 If you have any suggestions, improvements, or would like to contribute to the project, feel free to contact me at - sharma.yash4389@gmail.com
