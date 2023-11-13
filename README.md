@@ -5,8 +5,9 @@ This repository is a collection of interactive data visualizations and dashboard
 Tableau is a powerful data visualization tool that allows users to create interactive and shareable dashboards. It enables easy exploration and understanding of complex datasets through intuitive drag-and-drop features and a wide range of visualization options.
 
 ## Repository Contents:
-### 1. Project Name 1
-Description: Brief overview of the first Tableau project. Explain what the project is about and the insights it provides.
+### 1. IPL Analysis Dashboard
 
-Project 1 Screenshot
+This project focuses on analyzing Indian Premier League (IPL) data using Tableau. The dashboard provides insights into various aspects of the IPL, such as top run-getters, leading wicket-takers, winning teams, toss decisions, and more.
+
+
 ![IPL Analysis Dashboard](https://github.com/yashsharma1812/Tableau-Projects/assets/145771141/121d0b64-7571-4c6f-89d7-b013196c1d7b)
